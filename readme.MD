@@ -33,8 +33,7 @@ src/
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/nome-do-repositorio.git
-   cd nome-do-repositorio
+   git clone https://github.com/StyvenNoronha/jogo_adivinha
    ```
 
 2. **Instale as dependências**:
